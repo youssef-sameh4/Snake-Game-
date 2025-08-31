@@ -1,50 +1,35 @@
-  _________         _________
- /         \       /         \
-|   SNAKE   |     |   GAME    |
- \_________/       \_________/
-      \                 /
-       \    🐍        /
-        \             /
-         \___________/
-
 # 🐍 Snake Game
 
-A classic **Snake Game** built in **C++ (OOP style)** with clean code and a simple console interface.  
-The player controls the snake to eat food, grow longer, and avoid hitting the walls or itself.  
+A simple Snake Game implemented in **C++**.  
+The project simulates the classic snake game where the player controls a snake, eats food, and grows while avoiding collisions.
 
 ---
 
 ## ✨ Features
-- 🎮 Multiple difficulty levels (Easy / Medium / Hard)  
-- 🧱 Bordered map design  
-- 🍏 Random food generation  
-- 🏆 Score tracking system  
-- ⚡ Smooth snake movement  
+- Classic snake game mechanics.
+- Food spawns randomly on the map.
+- Score tracking system.
+- Game over detection.
+- Simple and clean structure using OOP.
 
 ---
 
 ## 🚀 How to Play
-1. Run the game from your console.  
-2. Choose your difficulty level.  
-3. Control the snake using arrow keys.  
-4. Eat food to grow and increase your score.  
-5. Avoid crashing into walls or yourself!  
+1. Run the game.
+2. Use the **arrow keys** to move the snake.
+3. Eat food to grow and increase your score.
+4. Avoid colliding with walls or yourself.
+5. The game ends when the snake collides.
 
 ---
 
-## 🛠️ Technologies Used
-- **C++**  
-- **OOP (Classes for Snake, Food, Player, Map, Game logic)**  
-
----
-
-## 📷 Preview
+## 🛠️ Technologies
+- C++
+- Object-Oriented Programming (OOP)
 
 ---
 
 ## 📌 Project Info
-Author: **Youssef Sameh**  
-GitHub Repo: [Snake-Game](https://github.com/youssef-sameh4/Snake-Game-)  
+- **Author:** Youssef Sameh  
+- **Repository:** [Snake Game](https://github.com/youssef-sameh4/Snake-Game-)
 
----
-🐍 _Enjoy the Game and Beat Your High Score!_ 🐍
