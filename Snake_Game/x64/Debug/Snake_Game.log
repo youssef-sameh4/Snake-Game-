@@ -1,0 +1,22 @@
+﻿  Snake_Game.cpp
+C:\Users\Compu\source\repos\Snake_Game\clsFood.h(33,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Snake_Game.cpp')
+  
+C:\Users\Compu\source\repos\Snake_Game\clsGame.h(14,14): warning C4091: 'static ': ignored on left of 'clsGame::Direction' when no variable is declared
+  (compiling source file 'Snake_Game.cpp')
+  
+C:\Users\Compu\source\repos\Snake_Game\clsGame.h(18,14): warning C4091: 'static ': ignored on left of 'clsGame::Level' when no variable is declared
+  (compiling source file 'Snake_Game.cpp')
+  
+  clsGame.cpp
+C:\Users\Compu\source\repos\Snake_Game\clsFood.h(33,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'clsGame.cpp')
+  
+C:\Users\Compu\source\repos\Snake_Game\clsGame.h(14,14): warning C4091: 'static ': ignored on left of 'clsGame::Direction' when no variable is declared
+  (compiling source file 'clsGame.cpp')
+  
+C:\Users\Compu\source\repos\Snake_Game\clsGame.h(18,14): warning C4091: 'static ': ignored on left of 'clsGame::Level' when no variable is declared
+  (compiling source file 'clsGame.cpp')
+  
+  Generating Code...
+  Snake_Game.vcxproj -> C:\Users\Compu\source\repos\Snake_Game\x64\Debug\Snake_Game.exe
